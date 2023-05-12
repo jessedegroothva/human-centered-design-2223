@@ -9,7 +9,7 @@ Hoe kan Eric zijn emoties en body language laten zien via een chatapp?
 Eric vindt zijn emoji’s niet goed genoeg. Hij wil betere en krachtigere tools om emotie en body language te gebruiken in chat app zoals Signal.
 
 ## Oplossing van het probleem: 
-Door middel van AI is het mogelijk om emoties te suggereren die passen bij de context waar Eric zich in bevind.
+Door middel van AI is het mogelijk om _emoties_ en _body language_ te suggereren die passen bij de context waar Eric zich in bevind.
 
 ## Link naar prototype?
 https://human-centered-design-2223-4772.vercel.app/
