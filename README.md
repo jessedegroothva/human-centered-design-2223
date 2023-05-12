@@ -12,3 +12,4 @@ Eric vindt zijn emoji’s niet goed genoeg. Hij wil betere en krachtigere tools 
 Door middel van AI is het mogelijk om emoties te suggereren die passen bij de context waar Eric zich in bevind.
 
 ## Meer details weten?
+https://human-centered-design-2223-4772.vercel.app/
